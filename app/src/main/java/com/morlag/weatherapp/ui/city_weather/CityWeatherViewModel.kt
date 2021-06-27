@@ -28,7 +28,7 @@ class CityWeatherViewModel
     }
 
     private fun requestWeather(){
-        repository.requestWeather(lattitude,longitude)
+        repository!!.requestWeather(lattitude,longitude)
             .subscribe({
                 //temp.value = if (it.isSuccessful) it.body()?.string() else it.errorBody()?.string()
                 /*Log.d("City",temp.value ?: "null value" )

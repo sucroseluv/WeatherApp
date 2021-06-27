@@ -11,11 +11,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e8741788-8008-48b4-ab3c-6bab4cfe4696" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_annotation_annotation_experimental_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__io_reactivex_rxjava2_rxjava_2_2_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/morlag/weatherapp/ui/base/BaseActivity.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/morlag/weatherapp/ui/search/SearchActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/morlag/weatherapp/ui/search/SearchActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_search.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_search.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/morlag/weatherapp/data/Repository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/morlag/weatherapp/data/Repository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/morlag/weatherapp/data/local/LocalData.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/morlag/weatherapp/data/local/LocalData.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/morlag/weatherapp/data/local/LocalDataSource.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/morlag/weatherapp/data/local/LocalDataSource.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/morlag/weatherapp/data/local/ResourceFetcher.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/morlag/weatherapp/utils/ResourceFetcher.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/morlag/weatherapp/di/ApplicationDi.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/morlag/weatherapp/di/ApplicationDi.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/morlag/weatherapp/di/Injection.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/morlag/weatherapp/di/Injection.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/morlag/weatherapp/ui/city_weather/CityWeatherViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/morlag/weatherapp/ui/city_weather/CityWeatherViewModel.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,9 +69,9 @@
         <option value="Class" />
         <option value="Kotlin Object" />
         <option value="Kotlin Interface" />
+        <option value="layoutResourceFile" />
         <option value="Kotlin Data Class" />
         <option value="Kotlin Class" />
-        <option value="layoutResourceFile" />
       </list>
     </option>
   </component>
@@ -75,6 +97,9 @@
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.morlag.weatherapp.utils" />
+    </key>
     <key name="android.template.1498207164">
       <recent name="com.morlag.weatherapp.ui.search" />
     </key>
@@ -161,10 +186,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="249" y="192" key="#PSD/0.0.1536.864@0.0.1536.864" timestamp="1624711594578" />
-    <state x="580" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1624731192407">
+    <state x="580" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1624806358775">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="580" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1624731192407" />
+    <state x="580" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1624806358775" />
     <state x="611" y="337" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1623951843477">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -173,6 +198,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="519" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1624035049980" />
+    <state x="549" y="80" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1624805513665">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="80" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1624805513665" />
     <state x="69" y="226" key="#xdebugger.evaluate" timestamp="1624733805293">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -185,34 +214,38 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="647" y="225" key="AndroidCreateXmlResourceDialog/0.0.1536.864@0.0.1536.864" timestamp="1623967423194" />
+    <state width="392" height="466" key="DebuggerActiveHint" timestamp="1624811189314">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="392" height="466" key="DebuggerActiveHint/0.0.1536.864@0.0.1536.864" timestamp="1624811189314" />
     <state x="519" y="189" key="Downloadable.Font.Dialog.Size" timestamp="1623954599823">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="519" y="189" key="Downloadable.Font.Dialog.Size/0.0.1536.864@0.0.1536.864" timestamp="1623954599823" />
-    <state x="557" y="187" key="FileChooserDialogImpl" timestamp="1624687248743">
+    <state x="557" y="187" key="FileChooserDialogImpl" timestamp="1624792097130">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="557" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1624687248743" />
-    <state width="1491" height="349" key="GridCell.Tab.0.bottom" timestamp="1624736350129">
+    <state x="557" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1624792097130" />
+    <state width="1455" height="329" key="GridCell.Tab.0.bottom" timestamp="1624811213572">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1491" height="349" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1624736350129" />
-    <state width="1491" height="349" key="GridCell.Tab.0.center" timestamp="1624736350129">
+    <state width="1455" height="329" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1624811213572" />
+    <state width="1455" height="329" key="GridCell.Tab.0.center" timestamp="1624811213572">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1491" height="349" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1624736350129" />
-    <state width="1491" height="349" key="GridCell.Tab.0.left" timestamp="1624736350129">
+    <state width="1455" height="329" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1624811213572" />
+    <state width="1455" height="329" key="GridCell.Tab.0.left" timestamp="1624811213571">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1491" height="349" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1624736350129" />
-    <state width="1491" height="349" key="GridCell.Tab.0.right" timestamp="1624736350129">
+    <state width="1455" height="329" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1624811213571" />
+    <state width="1455" height="329" key="GridCell.Tab.0.right" timestamp="1624811213572">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1491" height="349" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1624736350129" />
-    <state x="473" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1624743488623">
+    <state width="1455" height="329" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1624811213572" />
+    <state x="473" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1624804230101">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="473" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1624743488623" />
+    <state x="473" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1624804230101" />
     <state x="404" y="175" key="psd.add.library.dependency.panel.dimension" timestamp="1624711593837">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -221,5 +254,26 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1624710318921" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/morlag/weatherapp/di/Injection.kt</url>
+          <line>21</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/morlag/weatherapp/di/Injection.kt</url>
+          <line>22</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/morlag/weatherapp/di/Injection.kt</url>
+          <line>23</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

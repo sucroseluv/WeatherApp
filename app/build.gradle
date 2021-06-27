@@ -1,6 +1,7 @@
 apply plugin: 'com.android.application'
 apply plugin: 'kotlin-android'
 apply plugin: 'kotlin-android-extensions'
+apply plugin: 'kotlin-kapt'
 
 android {
     compileSdkVersion 30
@@ -63,5 +64,19 @@ dependencies {
     implementation "io.reactivex.rxjava2:rxjava:$rxjavaVer"
     implementation 'io.reactivex.rxjava2:rxandroid:2.1.0'
     implementation 'com.jakewharton.rxbinding4:rxbinding:4.0.0'
+
+    // Room
+    /*
+    def roomVer = "2.1.0"
+    implementation "androidx.room:room-runtime:$roomVer"
+    kapt "androidx.room:room-compiler:$roomVer"
+    implementation "androidx.room:room-ktx:$roomVer"
+    implementation "android.arch.persistence.room:rxjava2:$roomVer"
+    androidTestImplementation "android.arch.core:core-testing:$roomVer"*/
+    def room_version = "2.2.6"
+    implementation "androidx.room:room-runtime:$room_version"
+    annotationProcessor "androidx.room:room-compiler:$room_version"
+// optional - RxJava support for Room
+    implementation "androidx.room:room-rxjava2:$room_version"
 
 }
